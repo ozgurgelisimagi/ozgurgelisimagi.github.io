@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ozgurgelisimagi.org.tr/sitemap.xml
